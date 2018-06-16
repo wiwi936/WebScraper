@@ -1,5 +1,5 @@
 # Web Scraper
 
-Simple web scrapper (with crawler).
+Simple web scraper (with crawler).
 
-Note: main.py exemplifies the use.
+Note: main.py exemplifies usage.
